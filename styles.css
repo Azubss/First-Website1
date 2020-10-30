@@ -1,0 +1,30 @@
+/*style for table*/
+
+table{
+	width:60%;
+	background-color: #33cc33;
+	border-collapse: collapse;
+	
+	
+	
+}
+
+td, th{
+	border: 3px solid black;
+	text-align: left;
+	padding:10px;
+
+}
+
+
+li{
+	display:inline; /*display the line items in a line */
+	padding:10px
+	background-color:#33cc33;
+	margin:5px
+
+}
+a:link{
+	text-decoration: none;
+}
+	
